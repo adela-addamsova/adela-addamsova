@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adela Adamkova
-- 👀 I’m interested in programming in Python and creating webpages
-- 🌱 I’m currently learning more in Python and web development
+- 👀 I'm learning front-end development (HTML, CSS, JS) and a little bit of back-end (PHP, SQL)
 - 📫 How to reach me - a.addamsova@gmail.com or WhatsApp 702889784
 
 <!---
