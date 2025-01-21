@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adela Adamkova
-- 👀 I'm currently learning fullstack developement (PHP/Laravel, SQL, JavaScript)
+- 👀 I'm currently learning fullstack developement (PHP/Nette, SQL, JavaScript)
 - 📫 How to reach me - a.addamsova@gmail.com
   
 <!---
